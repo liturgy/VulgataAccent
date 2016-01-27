@@ -32,7 +32,7 @@
 ### Liber Ecclesiasticus
 ### Liber Isaiae
 * 1:  1-27
-* 2:  1-22 [all]
+* 2:  1-22 **[all]**
 * 4:  2-6
 * 5:  1-7
 
