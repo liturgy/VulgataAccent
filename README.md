@@ -1,9 +1,9 @@
 # ACCENTS ADDED:
 
 ### Liber Genesis
-	* 1:  1-31 [all]
-	* 2:  1-2
-	* 49: 10
+* 1:  1-31 [all]
+* 2:  1-2
+* 49: 10
 	
 ### Liber Exodus
 ### Liber Leviticus
